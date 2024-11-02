@@ -10,7 +10,7 @@ const stringToReplace = "Mind, Osadolor, Soul"
 let partToReplace = stringToReplace.replace("Osadolor", "Osadolore")
 //console.log(partToReplace)
 
-const longString = "banana, red, green, blue, purple, black"
+const longString = "banana, red, green, blue, purple, blacks"
 
 
 
